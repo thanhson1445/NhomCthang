@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\NhomCThang\Student\bin\Debug\Student.exe.config
+C:\Users\Admin\Desktop\NhomCThang\Student\bin\Debug\Student.exe
+C:\Users\Admin\Desktop\NhomCThang\Student\bin\Debug\Student.pdb
+C:\Users\Admin\Desktop\NhomCThang\Student\obj\Debug\Student.exe
+C:\Users\Admin\Desktop\NhomCThang\Student\obj\Debug\Student.pdb
