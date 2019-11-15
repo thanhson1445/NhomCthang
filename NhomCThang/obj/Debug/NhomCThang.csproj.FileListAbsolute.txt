@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\NhomCThang\NhomCThang\bin\Debug\NhomCThang.exe.config
+C:\Users\Admin\Desktop\NhomCThang\NhomCThang\bin\Debug\NhomCThang.exe
+C:\Users\Admin\Desktop\NhomCThang\NhomCThang\bin\Debug\NhomCThang.pdb
+C:\Users\Admin\Desktop\NhomCThang\NhomCThang\obj\Debug\NhomCThang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\NhomCThang\NhomCThang\obj\Debug\NhomCThang.exe
+C:\Users\Admin\Desktop\NhomCThang\NhomCThang\obj\Debug\NhomCThang.pdb
